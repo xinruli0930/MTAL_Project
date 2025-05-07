@@ -34,7 +34,7 @@ MTAL_Project/
 
 Clone this repository:
 ```bash
-git clone [Insert your repository link here]
+git clone https://github.com/xinruli0930/MTAL_Project.git
 cd MTAL_Project
 ```
 
