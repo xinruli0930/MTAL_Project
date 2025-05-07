@@ -1,0 +1,4 @@
+Dataset,PEHE_original,PEHE_reproduced,ATE_original,ATE_reproduced,PEHE_ablation,ATE_ablation
+IHDP,0.23,0.25,1.52,1.48,0.36,2.15
+NEWS,0.32,0.33,1.47,1.49,0.45,2.05
+Synthetic,0.2,0.22,1.25,1.29,0.31,1.9
