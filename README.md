@@ -96,7 +96,8 @@ An ablation experiment was conducted to investigate the role of adversarial lear
 This repository was developed entirely by the author as part of a research project focused on reproducibility and extensions of existing methodologies in causal inference for clinical trials.
 
 ## Reference
-Chu, T., Rathbun, S., & Li, Y. (2022). Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials. [Include proper journal/conference citation here]
+Chu, T., Rathbun, S., & Li, Y. (2022). Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials. 
+https://arxiv.org/abs/2203.05123
 
 ## Contact
 For questions or further information, please contact Xinru Li at xinruli4@illinois.edu.
